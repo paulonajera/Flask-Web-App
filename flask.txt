@@ -1,0 +1,13 @@
+installs needed:
+pip install flask
+pip install flask-login
+pip install flask-sqlalchemy
+
+Templates for html:
+special template language for html called "Jinga"
+can write python inside html docs, helps not need javascript
+
+
+Bootstrap for css style sheet
+
+Javascript related to Bootstrap
