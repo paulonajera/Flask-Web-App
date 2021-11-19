@@ -6,8 +6,13 @@ pip install flask-sqlalchemy
 Templates for html:
 special template language for html called "Jinga"
 can write python inside html docs, helps not need javascript
-
+can pass multiple variables and values to templates using Jinga
 
 Bootstrap for css style sheet
 
 Javascript related to Bootstrap
+
+flask is capable of "message flashing"
+import flash
+
+sqlite3
