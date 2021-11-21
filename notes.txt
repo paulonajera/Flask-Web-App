@@ -16,3 +16,6 @@ flask is capable of "message flashing"
 import flash
 
 sqlite3
+
+Youtube Video for Tutorial:
+https://youtu.be/dam0GPOAvVI?t=6969
